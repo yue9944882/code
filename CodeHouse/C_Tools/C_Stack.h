@@ -39,4 +39,4 @@ int remove_stack(int**stack){
     return tmp;
 }
 
-#endif // C_STACK_H_INCLUDED
+#endif // C_STACK_H_INCLUDED ..
